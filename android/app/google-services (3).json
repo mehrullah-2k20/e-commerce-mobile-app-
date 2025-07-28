@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "166079306239",
+    "project_id": "mobileapp-1e7ea",
+    "storage_bucket": "mobileapp-1e7ea.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166079306239:android:c80c1ab5982156c6e26fca",
+        "android_client_info": {
+          "package_name": "com.mehrullah.ecommerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvgSB62sB9py6zDc0yGGPcykAkuV7ni14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166079306239:android:2c0b71ca1625e350e26fca",
+        "android_client_info": {
+          "package_name": "com.mhrullah.flutterapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvgSB62sB9py6zDc0yGGPcykAkuV7ni14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
